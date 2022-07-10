@@ -1,0 +1,10 @@
+.logo img{
+    display: flex;
+    width: 200px;
+    height: 70px;
+   
+   
+}
+.logo{
+    background-color: white;
+}

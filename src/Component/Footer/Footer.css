@@ -1,0 +1,64 @@
+
+.OtherInformation ul{
+    list-style: none;
+    display: flex;
+  justify-content: center;
+  padding: 0px;
+   
+    
+  }
+  .OtherInformation ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+
+    
+   
+    
+  }
+
+ 
+  .OtherInformation{
+    margin: 0 auto;
+   
+  }
+  .OtherInformation ul li{
+    margin:0 20px;
+    
+   
+   
+    
+  }
+
+.footer .contain .main ul li a{
+    text-decoration: none;
+}
+.footer .contain .main ul li{
+    list-style: none;
+    text-align: left;
+}
+.title{
+    margin-bottom: 20px;
+    margin-left: 40px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.footer .contain{
+    display: flex;
+}
+.footer{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.footer::after{
+    content: "";
+    width: 85%;
+    height: 1px;
+    background-color: black;
+    position: absolute;
+    opacity: 0.1;
+}
+.domain{
+    text-align: center;
+
+}
